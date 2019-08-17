@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>New test with branch</h1>
+      <h4>branch A</h4>
     </div>
   );
 }
